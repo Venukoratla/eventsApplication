@@ -1,0 +1,14 @@
+/* Write your CSS here */
+.events-container {
+  display: flex;
+  flex-wrap: wrap;
+  width: 500px;
+}
+
+.events-bg {
+  width: 600px;
+  background-color: #3a4b63;
+}
+.whole-container {
+  display: flex;
+}

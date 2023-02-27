@@ -1,0 +1,18 @@
+/* Write your CSS here */
+.event-item {
+  display: flex;
+  flex-direction: column;
+  margin: 10px;
+  width: 200px;
+}
+.image {
+  height: 100px;
+  width: 150px;
+  box-shadow: black;
+}
+
+.heading {
+  font-family: Roboto;
+  font-weight: 500;
+  font-size: 20px;
+}
